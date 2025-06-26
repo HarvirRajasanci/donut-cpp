@@ -10,7 +10,9 @@ A fun, terminal-based 3D ASCII spinning donut rendered using math and pure C++!
 
 This program uses trigonometry and perspective projection to draw a rotating 3D torus (donut) entirely in ASCII characters in your terminal window.
 
-![Spinning Donut Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Spinning Donut Demo" width="500"/>
+</p>
 
 ---
 
