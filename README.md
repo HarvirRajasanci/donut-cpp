@@ -1,6 +1,6 @@
 ﻿# Donut.cpp 🎯🍩
 
-A fun, terminal-based 3D ASCII spinning donut rendered using math and pure C++!
+A terminal-based 3D ASCII spinning donut rendered using math and pure C++!
 
 ## 🚀 Demo
 
